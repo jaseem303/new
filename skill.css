@@ -1,0 +1,32 @@
+.card{
+    width: 200pt;
+    height: 200px;
+    margin-top: 85pt;
+    margin-left: 70pt;
+    padding: 30px;
+    text-align: center;
+    
+}
+.first{
+    display: flex;
+    
+}
+
+.second{
+    display: flex;
+}
+img{
+    margin-top: 10px;
+}
+.head{
+    background-color:#fff;
+    color:black;
+    height: 50px;
+    padding: 18px;
+    text-align: center;
+    margin-top: 20px;
+}
+.head h1{
+    margin-left: 50px;
+}
+
